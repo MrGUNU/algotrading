@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo img {
+    height: 40px;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a {
+    color: gray;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .nav-links a:hover {
+    color: black;
+  }
+  
+  .menu-icon {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    cursor: pointer;
+  }
+  
+  .menu-icon span {
+    width: 24px;
+    height: 2px;
+    background-color: black;
+  }
+  

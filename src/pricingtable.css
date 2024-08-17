@@ -1,0 +1,48 @@
+.pricing-table {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  .plan {
+    background: white;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    width: 18%;
+    text-align: center;
+  }
+  
+  .best-value {
+    border: 2px solid #6200ea;
+    box-shadow: 0 0 10px rgba(98, 0, 234, 0.5);
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #6200ea;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  li:before {
+    content: '• ';
+    color: #6200ea;
+  }
+  
