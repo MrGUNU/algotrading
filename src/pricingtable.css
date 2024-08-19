@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #fffefe;
   }
   
   .plan {
@@ -10,7 +10,7 @@
     padding: 20px;
     border: 1px solid #e0e0e0;
     border-radius: 8px;
-    width: 18%;
+    width: 15%;
     text-align: center;
   }
   

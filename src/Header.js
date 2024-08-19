@@ -2,7 +2,7 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from 'react';
 import './Header.css';
-import logo from './images/algotradepro-high-resolution-logo.png'; // Assuming you have the Zerodha logo image in your images folder
+import logo from './images/algotradepro-high-resolution-logo.png'; 
 
 function Header() {
   return (
